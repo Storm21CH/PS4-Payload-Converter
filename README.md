@@ -1,5 +1,7 @@
 # PS4 FW 6.72, 7.02, 7.55 Payload-Converter
 
+![Downloads](https://img.shields.io/github/downloads/Storm21CH/PS4-FW-6.72-Payload-Converter/total)
+
 PS4 FW 6.72, 7.02, 7.55 Payload Umwandler BIN2JS oder JS2BIN by Storm21
 
 - Der Payload "*.js" oder "*.bin" muss sich im selben Ordner befinden wie die Converter Dateien.
