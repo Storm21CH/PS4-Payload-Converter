@@ -2,6 +2,8 @@
 
 ![Downloads](https://img.shields.io/github/downloads/Storm21CH/PS4-FW-6.72-Payload-Converter/total)
 
+Windows 10
+
 Update to v1.1:
 
 - Only one Converter for JS and BIN Payloads
